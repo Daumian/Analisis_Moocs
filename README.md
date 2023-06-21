@@ -4,7 +4,7 @@
 
 ## Links Utiles
 ### [EDA y ETL](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/EDA-y-ETL-moocs-806f670f-e9e0-46a0-b962-3c1778ba58b7/notebook/EDA%20y%20ETL-a70b87f1ff95494fbab893244dc03dc8)
-### [PowerBi](https://drive.google.com/file/d/1Wk3HlPKs3e5Th_Kq4FO1FyC4tOIbosJ1/view?usp=drive_link)
+### [PowerBi](https://github.com/Daumian/moocs/blob/main/proyecto.pbix)
 
 MOOC (Massive Open Online Course)
 
