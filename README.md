@@ -14,11 +14,10 @@ Es en resumen un curso, en el que aprendes una habilidad, hay 2 puntos important
 
 ### Fuentes: para este analisis se tuvieron en cuenta distintos dataset con info sobre las principales moocs actuales, coursera, udemy, edx, udacity
 
-## Inicio: este proyecto tenia dos objetivos principales, 
+## Objetivo: 
+- conseguir pasar mas gente del sistema "Free" al modelo "pago" (aunmento del 15%)
 
-1-conseguir pasar mas gente del sistema "Free" al modelo "pago", 
-2-aunmentar gancias
-
+## Proceso
 primero es importante que sepamos donde estamos, podemos ver y analizar con tiempo las distintas metricas, pero hay un punto vital que tenemos que analiar, ¿que es gratis y que no? tenemos que dedicar su debido tiempo a analizar esto. ¿que buscamos con un curso gratis y que buscamos con un curso pago?
 
 ![comparacion](https://github.com/Daumian/moocs/blob/main/Imagenes%20Readme/free%20_%20pago.jpg?raw=true)
@@ -35,9 +34,9 @@ para hacer mas facil esto se definieron 4 categorias y se recomienda su uso
 
 - Básico: es un vistaso para alguien que puede no saber nada del tema, si yo te digo "empezar en django" por mas que sea el primer curso de una tecnologia, es una tecnologia que si manejas es que ya llevas tiempo en ella, no seria basico, un curso básico esta enfocado en motivar, un curso basico debe mirar al usuario a los ojos y decirle "tienes un camino por delante y te felicito por dar el primer paso, sigue que te esperan cosas buenas y un mundo nuevo"
 
-- Junior: Bien el usuario se definio por un area y esta dando los primeros pasos, este curso es mas barato por que buscamos algo mas importante, y es que confie en nosotros, meter la tarjeta por primera vez es el mayor punto de dolor, y es prioridad tener cuidado en este punto, reduciremos el dolor mejorando la imagen de los cursos basicos y reduciendo el precio de los primeros cursos
+- Junior: Bien el usuario se definio por un area y esta dando los primeros pasos, este curso es mas barato por que buscamos algo mas importante, y es que confie en nosotros, meter la tarjeta por primera vez es el mayor punto de dolor, y es prioridad tener cuidado en este punto, reduciremos el dolor mejorando la imagen de los cursos basicos y reduciendo el precio de los primeros cursos, si queremos aunmentar el numero de usuarios pagos, este es uno de los puntos mas importante.
 
--middle: acá es donde el usuario pasara la mayor parte del tiempo, ya ha metido la tarjeta una vez, seguir haciendolo es facil, el usuario ira recorriendo los cursos, descubriendo nuevos y aprendiendo
+-middle: acá es donde el usuario pasara la mayor parte del tiempo, ya ha metido la tarjeta una vez, seguir haciendolo es facil, el usuario ira recorriendo los cursos, descubriendo nuevos y aprendiendo, si aunmentamos el numero de cursos que hace cada usuario, nos acercaremos a nuestro kpi objetivo
 
 -senior: estos cursos son mucho mas caros por que no son **solo** para aprender a tecnologia, son estatus, son credibilidad, son esa ayuda a la autoestima que te salva del sindrome del inpostor
 el cliente **quiere** pagar mas. pues no sientes el mismo orgullo al finalizar un curso de 30 dolares que uno de 300, estos son los que se ponen en linkedin, los que enmarcas y presumes, necesitamos maximizar el orgullo que sientan, pero hay un punto importante, tenemos que aclarar que no es un final, debemos volverlo nuevamente a middle, tiene que encontar nuevas tecnologias, nuevas cosas que aprender para que aprenda.
@@ -58,3 +57,10 @@ pues no, por que nos aseguramos algo importante, un ingreso constante mensual, h
 otro punto que se vio también es que a los cursos en otros idiomas les ha ido bien, que un curso este subtitulado no afecta mucho, pero que este puramente en un idioma, tiene muy buena rentabilidad dependiendo el idioma, paises como italia, japon o alemania son donde mejor rentabilidad tiene, entonces aunque el ingles sea universal, tendriamos que plantearnos traducir en lenguaje natural cursos a otros idiomas,
 
 nos ayudaria a destacar muchisimo, entre todos los cursos en ingles, que encuentres un curso en tu lengua materna, seguro ya sabes ingles, pero siempre te sientes mas comodo en tu idioma natal.
+
+## resumen
+- se eliminaran cursos basicos de mala calidad
+- se facilitara la primer compra
+- se fomentara el nivel intermedio
+- se creara un sistema de suscripcion
+- se crearan cursos en distintas lenguas, (audio)
