@@ -6,9 +6,10 @@
 ### [EDA y ETL](https://deepnote.com/workspace/daumian-ruiz-ceed-0677a995-df7e-45a8-9540-809a03138f79/project/EDA-y-ETL-moocs-806f670f-e9e0-46a0-b962-3c1778ba58b7/notebook/EDA%20y%20ETL-a70b87f1ff95494fbab893244dc03dc8)
 ### [PowerBi](https://github.com/Daumian/moocs/raw/main/proyecto.pbix)
 
-MOOC (Massive Open Online Course)
 
-Es en resumen un curso, en el que aprendes una habilidad, hay 2 puntos importantes que diferencian un mooc, 
+# MOOC (Massive Open Online Course)
+
+Es en resumen un curso, en el que aprendes una habilidad, pero hay 2 puntos importantes que diferencian un mooc, 
 - Masividad: un mooc esta pensado para ser visto por cientos, o miles de personas, en distintos contextos y culturas.
 - Autoaprendizaje: a diferencia de en una escuela, los moocs no estaran atras tuyo, suelen constar de videos pregrabados, y dependen de la constancia de la persona que los ve, depende de ti si lo terminas y hacer todas los proyectos, o decides ignorarlo
 
@@ -48,9 +49,9 @@ ya tenemos el recorrido bien definido ahora tenemos un punto importante, ¿como 
 con un pago mensual o anual, nos aseguramos que la persona seguira con nosotros, ¿por que ofrecer cursos gratis y descuentos? esto no es contraproducente,
 pues no, por que nos aseguramos algo importante, un ingreso constante mensual, hay 3 tipos de clientes y los 3 rinden mejor con este modelo.
 
--relajado: gente que pasa meses si hacer un curso, con este modelo seguiran generando ganancias aunque no este preocupado por su curso en ese momento
--intermedio: gente que hara el curso gratis, seguimos generando buenas ganancias al ser recurrente, y si se motiva terminara comprando mas cursos
--activo: persona que hace muchos cursos, al tener descuentos esta persona estara mas abierta a comprar cursos, comprando más, ahora tiene sentimiento de que "esta ahorrando" con cada compra, y eso es bueno
+- relajado: gente que pasa meses si hacer un curso, con este modelo seguiran generando ganancias aunque no este preocupado por su curso en ese momento
+- intermedio: gente que hara el curso gratis, seguimos generando buenas ganancias al ser recurrente, y si se motiva terminara comprando mas cursos
+- activo: persona que hace muchos cursos, al tener descuentos esta persona estara mas abierta a comprar cursos, comprando más, ahora tiene sentimiento de que "esta ahorrando" con cada compra, y eso es bueno
 
 ![idioma](https://github.com/Daumian/moocs/blob/main/Imagenes%20Readme/promedio%20idioma.png?raw=true)
 
